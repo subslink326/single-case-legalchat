@@ -1,8 +1,5 @@
 # single-case-legalchat
 
-Below is a **sample `README.md`** you can include at the **root** of your “Single-Case LegalChat” project. It outlines the project’s purpose, features, installation steps, environment setup, and usage instructions. Feel free to adapt it to match your environment (e.g., if you’re running locally, Docker, or on Replit).
-
----
 
 # **Single-Case LegalChat**
 
